@@ -1,3 +1,2 @@
 # Memory-Puzzle-Game
-
-zdr
+## 1. Опис на апликацијата
